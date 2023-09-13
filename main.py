@@ -27,7 +27,7 @@ lung_cancer = pickle.load(open("models/lung_cancer_model.sav", "rb"))
 
 with st.sidebar:
     
-    selected = option_menu("Multiple Disease Prediction System using Machine Learning", 
+    selected = option_menu("The Machine Learning and Medical Technology Web App", 
                            
                            ["Diabetes Prediction",
                             "Heart Disese Prediction",
