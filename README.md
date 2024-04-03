@@ -1,5 +1,6 @@
 # Machine Learning Disease Prediction Web App
 
+![life cycle](https://github.com/Shyam165/The-Machine-Learning-Disease-Prediction-Web-App/assets/111563134/e67719c8-ac69-4409-8cca-c1b215d3ba36)
 
 ---
 
@@ -55,17 +56,28 @@ The future scope of the project includes:
 
 ## Snapshots
 
-![Snapshot 1](snapshot_1.png)
-![Snapshot 2](snapshot_2.png)
-![Snapshot 3](snapshot_3.png)
+### Diabetes Prediction:
+![Picture2](https://github.com/Shyam165/The-Machine-Learning-Disease-Prediction-Web-App/assets/111563134/d55b74f1-532d-4b7b-9d87-0e4179168896)
+
+### Heart Disease Prediction:
+![heart disease prediction](https://github.com/Shyam165/The-Machine-Learning-Disease-Prediction-Web-App/assets/111563134/38911617-be89-4f78-8491-846c02a5540a)
+
+### Breast Cancer Prediction:
+![breast canser prediction](https://github.com/Shyam165/The-Machine-Learning-Disease-Prediction-Web-App/assets/111563134/f2046339-9361-467e-a089-18c0e3ac97a6)
+
+### Lung Cancer Prediction:
+![Lung Cancer Prediction](https://github.com/Shyam165/The-Machine-Learning-Disease-Prediction-Web-App/assets/111563134/a2bbd2fd-d85c-4ffd-a029-771b25417b91)
+
+### Parkinson Disease Prediction:
+![parkinson disease prediction](https://github.com/Shyam165/The-Machine-Learning-Disease-Prediction-Web-App/assets/111563134/73e4da8e-a748-463f-8643-395bdcef6ff6)
+
 
 ---
 
 ## Contributors
 
-- John Doe - Project Lead
-- Jane Smith - Data Scientist
-- Bob Johnson - Web Developer
+- Shyam Singh (shyamsingh78790@gmail.com)
+
 
 ---
 
@@ -77,7 +89,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Special thanks to OpenAI for providing the GPT-3 model.
 - Inspiration drawn from various healthcare and machine learning projects.
 - Gratitude to the open-source community for their invaluable contributions.
 
@@ -85,6 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For inquiries, please contact the project lead at john.doe@example.com.
+For inquiries, please contact the project lead at shyamsingh78790@gmail.com.
 
 
