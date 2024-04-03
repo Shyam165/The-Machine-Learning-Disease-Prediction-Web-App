@@ -1,5 +1,6 @@
 # Machine Learning Disease Prediction Web App
 
+### Process For Building the Machine Learning Models:
 ![life cycle](https://github.com/Shyam165/The-Machine-Learning-Disease-Prediction-Web-App/assets/111563134/e67719c8-ac69-4409-8cca-c1b215d3ba36)
 
 ---
@@ -39,8 +40,6 @@ The "Machine Learning Disease Prediction Web App" is a transformative healthcare
 - **Random Forest Classification:** Ensemble learning method beneficial for diseases like lung cancer.
 
 - **Support Vector Machine (SVM):** Powerful algorithm suitable for diseases like heart disease with complex decision boundaries.
-
-- **AdaBoost (Adaptive Boosting):** Ensemble learning technique to enhance prediction accuracy.
 
 ---
 
